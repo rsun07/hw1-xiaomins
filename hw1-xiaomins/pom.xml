@@ -112,6 +112,6 @@
   </dependencies>
   <scm>
   	<connection>scm:git:git@github.com:rsun07/hw0-xiaomins.git  </connection>
-  	<developerConnection>scm:git:git@github.com:rsun07/hw0-xiaomins.git  </developerConnection>
+  	<developerConnection>scm:git:git@github.com:rsun07/hw0-xiaomins.git</developerConnection>
   </scm>
 </project>
